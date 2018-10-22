@@ -11,7 +11,7 @@ Department of Economics
 Ithaca, NY 14850  
 
 **Email address**  
-mh975 @ cornell.edu
+mh975@cornell.edu
 
 **Mobile number**  
 (484) 213 3797
