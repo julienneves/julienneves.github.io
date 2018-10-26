@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 ---
-I have served as a teaching assistant for the following courses at Cornell University (evaluations available on request):
+I have served as a teaching assistant for the following courses at Cornell University:
 
 _Undergraduate_
 * Introductory Microeconomics
@@ -18,8 +18,4 @@ _MPA_
 _Ph.D._
 * Macroeconomics II
 
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+For courses where teaching evaluations were submitted, I have received an average overall rating of 4.8/5.  An overview of my evaluations can be downloaded [here](http://malin-hu.github.io/files/evals_summary.pdf), and more detailed evaluations are available on request.
