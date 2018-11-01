@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 ---
-<!-- {% include base_path %} -->
-
 [[download CV](http://malin-hu.github.io/files/MH_CV.pdf)]  
 
 Personal Information
@@ -30,13 +28,11 @@ Research Papers
 ====
 "Macroeconomic effects of household leverage regulations after the crisis" (Job Market Paper)
 
-"Sovereign Debt Composition in Advanced Economies: A Historical Perspective" (IMF Working Paper No. 14/162) with S. M. Ali Abbas, Laura Blattner, Mark De Broeck, and Asmaa El-Ganainy
+["Sovereign Debt Composition in Advanced Economies: A Historical Perspective"](httsp://malin-hu.github.io/files/sovereign_debt_composition.pdf) (IMF Working Paper No. 14/162) with S. M. Ali Abbas, Laura Blattner, Mark De Broeck, and Asmaa El-Ganainy
 
 Research Papers in Progress
 =====
 "The consumption insurance role of homeownership"
-
-<!-- "Fiscal policy and the maturity of sovereign debt in emerging market economies" -->
 
 Teaching Experience
 =====
