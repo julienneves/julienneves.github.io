@@ -9,11 +9,6 @@ redirect_from:
 ---
 [[download CV](http://malin-hu.github.io/files/MH_CV.pdf)]  
 
-Personal Information
-====
-* _Citizenship_: United States of America, Canada
-* _Date of birth_: August 27, 1989
-
 Education
 ======
 * Ph.D., Economics, Cornell University, 2019 (expected)
@@ -66,3 +61,8 @@ Skills
 ======
 * _Programming_: Fortran, Julia, LaTeX, MATLAB, Python, Stata
 * _Languages_: English (native), Chinese (fluent), Spanish (intermediate)
+
+Personal Information
+====
+* _Citizenship_: United States of America, Canada
+* _Date of birth_: August 27, 1989
