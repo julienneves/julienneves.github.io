@@ -48,6 +48,7 @@ Research Experience and Other Employment
 
 Honors, Scholarships, and Fellowships
 ======
+* 2018: The Anindya (Bappu) Majumder '98 Memorial Prize for Excellence in Teaching, Cornell University
 * 2015: The Louis Walinsky Fund in Economics in Honor of Professor Herbert Joseph Davenport Outstanding Teaching Award, Cornell University
 * 2013: Fundwide Recognition Award, International Monetary Fund
 * 2011: Departmental Award, International Monetary Fund
