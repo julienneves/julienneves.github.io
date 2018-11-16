@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working Papers
 
-**Macroeconomic effects of household leverage regulations after the crisis** [[download](https://malin-hu.github.io/files/MH_JMP_181023.pdf)]  
+**Macroeconomic effects of household leverage regulations after the crisis** [[download](https://malin-hu.github.io/files/MH_JMP.pdf)]  
 _Job Market Paper_
 >This paper assesses the aggregate and distributional effects of policies that seek to reduce mortgage default by limiting a borrower's debt payment-to-income ratio.  I document empirically that mortgage originations with a debt payment-to-income ratio above an institutional limit are associated with higher credit scores and lower leverage.  I propose an overlapping-generations model with mortgage contract choice and equilibrium default risk consistent with the empirical findings.  In the calibrated model, I show that a policy that combines a constraint on the debt payment-to-income ratio with a costly option to relax that constraint is effective at lowering default and improving welfare, particularly for households in the middle of the wealth distribution who have low incomes.
 
