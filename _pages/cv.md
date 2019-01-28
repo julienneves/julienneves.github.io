@@ -33,7 +33,7 @@ Teaching Experience
 =====
 * Fall 2018: Teaching Assistant for Pauline Leung, Cornell University, Economics of the Public Sector (MPA core)
 * Fall 2013, Fall 2014, Winter 2018, Summer 2018: Teaching Assistant for Jennifer Wissink, Cornell University, Introductory Microeconomics
-* Spring 2018: Teaching Assistant for Mathieu Taschereau-Dumouchel, Cornell University, Intermediate Macroeconomic Theory
+* Spring 2018, Spring 2019: Teaching Assistant for Mathieu Taschereau-Dumouchel, Cornell University, Intermediate Macroeconomic Theory
 * Fall 2017: Teaching Assistant for Christopher Huckfeldt, Cornell University, Intermediate Macroeconomic Theory
 * Spring 2015, Spring 2016: Teaching Assistant for Karel Mertens and Francesco Bianchi, Cornell University, Macroeconomics II (Ph.D. core)
 * Spring 2016: Grader for Francesco Bianchi, Cornell University, International Monetary Policy and Theory
