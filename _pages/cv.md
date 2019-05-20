@@ -29,11 +29,13 @@ Research Papers in Progress
 =====
 "The consumption insurance role of homeownership"
 
+"The transmission of monetary policy shocks to the U.S. mortgage market"
+
 Teaching Experience
 =====
+* Spring 2018, Spring 2019: Teaching Assistant for Mathieu Taschereau-Dumouchel, Cornell University, Intermediate Macroeconomic Theory
 * Fall 2018: Teaching Assistant for Pauline Leung, Cornell University, Economics of the Public Sector (MPA core)
 * Fall 2013, Fall 2014, Winter 2018, Summer 2018: Teaching Assistant for Jennifer Wissink, Cornell University, Introductory Microeconomics
-* Spring 2018, Spring 2019: Teaching Assistant for Mathieu Taschereau-Dumouchel, Cornell University, Intermediate Macroeconomic Theory
 * Fall 2017: Teaching Assistant for Christopher Huckfeldt, Cornell University, Intermediate Macroeconomic Theory
 * Spring 2015, Spring 2016: Teaching Assistant for Karel Mertens and Francesco Bianchi, Cornell University, Macroeconomics II (Ph.D. core)
 * Spring 2016: Grader for Francesco Bianchi, Cornell University, International Monetary Policy and Theory
@@ -48,14 +50,15 @@ Research Experience and Other Employment
 
 Honors, Scholarships, and Fellowships
 ======
-* 2018: The Anindya (Bappu) Majumder '98 Memorial Prize for Excellence in Teaching, Cornell University
-* 2015: The Louis Walinsky Fund in Economics in Honor of Professor Herbert Joseph Davenport Outstanding Teaching Award, Cornell University
+* 2018: Anindya (Bappu) Majumder '98 Memorial Prize for Excellence in Teaching, Cornell University
+* 2015: Louis Walinsky Fund in Economics in Honor of Professor Herbert Joseph Davenport Outstanding Teaching Award, Cornell University
 * 2013: Fundwide Recognition Award, International Monetary Fund
 * 2011: Departmental Award, International Monetary Fund
 * 2011: Honors in International Political Economy, Georgetown University
 
 Invited Presentations
 =====
+* 2019: Colgate University, Federal Reserve Bank of Cleveland, Hamilton College, Seattle University, Temple University, Union College, United States Naval Academy, University of Houston, Vanderbilt University
 * 2013: International Monetary Fund
 
 Skills
