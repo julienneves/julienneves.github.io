@@ -16,7 +16,7 @@ VU Station B #351819
 Nashville, TN 37235-1819
 
 **Email address**  
-malin [_dot_] hu [_at_] vanderbilt [_dot_] edu
+[malin [_dot_] hu [_at_] vanderbilt [_dot_] edu](mailto:malin.hu@vanderbilt.edu)
 
 **Phone**  
 (615) 322-1390
