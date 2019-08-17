@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Working Papers
 
-**[Macroeconomic effects of household leverage regulations after the crisis(https://malin-hu.github.io/files/MH_JMP.pdf)]**
+**[Macroeconomic effects of household leverage regulations after the crisis](https://malin-hu.github.io/files/MH_JMP.pdf)**  
 >This paper assesses the aggregate and distributional effects of policies that seek to reduce mortgage default by limiting a borrower's debt payment-to-income ratio.  I document empirically that highly creditworthy borrowers appear constrained by a current institutional debt payment-to-income limit.  I propose a heterogeneous-agent life-cycle model with a competitive mortgage market, endogenous default, and mortgage contract choice consistent with the empirical findings.  In the calibrated model, I show that, relative to the current uniformly applied debt payment-to-income cap, a policy that combines a more strict debt payment-to-income limit with a costly option to relax the limit lowers default and improves aggregate welfare, particularly for households in the middle of the wealth distribution who have low incomes.
 
 **Sovereign Debt Composition in Advanced Economics: A Historical Perspective** [[download](http://malin-hu.github.io/files/sovereign_debt_composition.pdf); [VoxEU article](https://voxeu.org/article/advanced-economies-sovereign-debt-100-years-data)]  
