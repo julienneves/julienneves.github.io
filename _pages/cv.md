@@ -9,9 +9,13 @@ redirect_from:
 ---
 [[download CV](http://malin-hu.github.io/files/MH_CV.pdf)]  
 
+Academic Positions
+======
+* Assistant Professor of Economics, Vanderbilt University, 2019-present
+
 Education
 ======
-* Ph.D., Economics, Cornell University, 2019 (expected)
+* Ph.D., Economics, Cornell University, 2019
 * M.A., Economics, Cornell University, 2017
 * B.S.F.S., International Political Economy (_magna cum laude_), Georgetown University, 2011
 
@@ -33,28 +37,31 @@ Research Papers in Progress
 
 Teaching Experience
 =====
-* Spring 2018, Spring 2019: Teaching Assistant for Mathieu Taschereau-Dumouchel, Cornell University, Intermediate Macroeconomic Theory
-* Fall 2018: Teaching Assistant for Pauline Leung, Cornell University, Economics of the Public Sector (MPA core)
-* Fall 2013, Fall 2014, Winter 2018, Summer 2018: Teaching Assistant for Jennifer Wissink, Cornell University, Introductory Microeconomics
-* Fall 2017: Teaching Assistant for Christopher Huckfeldt, Cornell University, Intermediate Macroeconomic Theory
-* Spring 2015, Spring 2016: Teaching Assistant for Karel Mertens and Francesco Bianchi, Cornell University, Macroeconomics II (Ph.D. core)
-* Spring 2016: Grader for Francesco Bianchi, Cornell University, International Monetary Policy and Theory
-* Fall 2015: Teaching Assistant for Henry Y. Wan, Jr., Cornell University, Intermediate Macroeconomic Theory
-* Spring 2014: Coordinating Teaching Assistant for Jennifer Wissink, Cornell University, Introductory Macroeconomics
+_Instructor, Vanderbilt University_ 
+* ECON 9210 Topics in Macroeconomics (Ph.D. elective)
+
+_Teaching Assistant, Cornell University_
+* ECON 1110 Introductory Microeconomics (undergraduate)
+* ECON 1120 Introductory Macroeconomics (undergraduate)
+* ECON 3040 Intermediate Macroeconomic Theory (undergraduate)
+* ECON 6140 Macroeconomics II (Ph.D. core)
+
+_Grader, Cornell University_
+* ECON 4520 International Monetary Theory and Policy (undergraduate)
 
 Research Experience and Other Employment
 =====
-* 2016-2017: Research Assistant for Karel Mertens, Cornell University
-* 2015: Research Assistant for Christopher Huckfeldt, Cornell University
-* 2011-2013: Research Assistant, Fiscal Affairs Department, International Monetary Fund
+* Research Assistant for Karel Mertens, Cornell University, 2016-2017
+* Research Assistant for Christopher Huckfeldt, Cornell University, 2015
+* Research Assistant, Fiscal Affairs Department, International Monetary Fund, 2011-2013
 
 Honors, Scholarships, and Fellowships
 ======
-* 2018: Anindya (Bappu) Majumder '98 Memorial Prize for Excellence in Teaching, Cornell University
-* 2015: Louis Walinsky Fund in Economics in Honor of Professor Herbert Joseph Davenport Outstanding Teaching Award, Cornell University
-* 2013: Fundwide Recognition Award, International Monetary Fund
-* 2011: Departmental Award, International Monetary Fund
-* 2011: Honors in International Political Economy, Georgetown University
+* Anindya (Bappu) Majumder '98 Memorial Prize for Excellence in Teaching, Cornell University, 2018
+* Louis Walinsky Fund in Economics in Honor of Professor Herbert Joseph Davenport Outstanding Teaching Award, Cornell University, 2015
+* Fundwide Recognition Award, International Monetary Fund, 2013
+* Departmental Award, International Monetary Fund, 2011
+* Honors in International Political Economy, Georgetown University, 2011
 
 Invited Presentations
 =====
