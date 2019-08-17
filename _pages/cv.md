@@ -16,6 +16,8 @@ Academic Positions
 Education
 ======
 * Ph.D., Economics, Cornell University, 2019
+    _Dissertation_: "Essays on Macroeconomics and Housing"
+    _Committee_: Christopher Huckfeldt (co-chair), Kristoffer Nimark (co-chair), Karel Mertens
 * M.A., Economics, Cornell University, 2017
 * B.S.F.S., International Political Economy (_magna cum laude_), Georgetown University, 2011
 
