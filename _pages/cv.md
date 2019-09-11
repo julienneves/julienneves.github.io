@@ -45,6 +45,7 @@ _Teaching Assistant, Cornell University_
 * ECON 1120 Introductory Macroeconomics (undergraduate)
 * ECON 3040 Intermediate Macroeconomic Theory (undergraduate)
 * ECON 6140 Macroeconomics II (Ph.D. core)
+* PADM 5220 Economics of the Public Sector (MPA core)
 
 _Grader, Cornell University_
 * ECON 4520 International Monetary Theory and Policy (undergraduate)
@@ -65,7 +66,7 @@ Honors, Scholarships, and Fellowships
 
 Invited Presentations
 =====
-* 2019: Colgate University, Federal Reserve Bank of Cleveland, Hamilton College, Seattle University, Temple University, Union College, United States Naval Academy, University of Houston, Vanderbilt University
+* 2019: Union College, Colgate University, Hamilton College, Vanderbilt University, Federal Reserve Bank of Cleveland, Seattle University, University of Houston, United States Naval Academy, Temple University
 * 2013: International Monetary Fund
 
 Skills
