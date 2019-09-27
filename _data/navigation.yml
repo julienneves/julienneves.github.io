@@ -9,7 +9,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /cv/
 
   - title: "Research"
