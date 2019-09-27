@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ---
-## Chapters
+## Publications
 
 **[Finite-sample inference and nonstandard asymptotics with Monte Carlo tests and R](https://doi.org/10.1016/bs.host.2019.05.001)**  
 with Jean-Marie Dufour
@@ -16,11 +16,10 @@ Volume 41, 2019, Pages 3-31_
 ## Works in Progress
 
 **Judge Influence and Judicial Network**
->I establish a set of stylized facts regarding the consumption insurance role of homeownership.  Using the Panel Study of Income Dynamics, I first show that the decline in nondurable consumption among owners during periods of low earnings is less than one-third the size of the consumption decrease of renters under equivalent circumstances.  Next, I demonstrate that increased borrowing collateralized by the primary residence, or equity extraction, can account for the aforementioned consumption response of owners.  Conditioning on an owner's initial stock of liquid savings is crucial: the consumption responses of equity extractors and non-extractors among the subset of owners with relatively high levels of liquid assets do not exhibit any significant difference.  These findings suggest that the self-insurance role of homeownership is more salient for liquidity constrained owners.
+>While researchers in the past years have tried to better understand the link between judges' individual characteristics and judges' overall influence, less work has been done to capture how social interactions affect  this relationship. This paper, through the framework and empirical strategy proposed by Battaglini et al (2018), tries to fill this gap. Using flow of law clerks between judges from 1995-2004 as a measure of social connections and total citations as a proxy for influence, I am able to identify significant effects from social interactions. I find that weighted Katz-Bonacich centrality is a robust predictor of judicial influence even after correcting for endogeneity. In addition, I show that social spillovers are not homogeneous across demographics. For instance, ethnic minorities and younger judges are not able to utilize their social connections as well as other judges.
 
-<!-- **Fiscal procyclicality and maturity of sovereign debt in emerging market economies**
->How does the growing ability of emerging market economies to borrow long term affect the behavior of fiscal policy over the business cycle? This paper develops a dynamic stochastic general equilibrium model of a small open economy that features optimal fiscal policy, unsecured long-term debt, and default risk and calibrates the model to match features of the Chilean economy. Preliminary results indicate that, when debt matures after one period, the optimal tax rate is negatively correlated with output fluctuations. When debt is of long duration, the sign on this correlation is reversed. Long-term debt results in lower welfare in almost all states of the economy, however, which is likely due to the debt dilution problem.
- -->
+
+
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
