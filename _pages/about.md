@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ---
-I am an doctoral student in the Department of Economics at [Cornell Unviersity](https://as.vanderbilt.edu/econ).  
-<!-- I am currently working under the supervision of []() (co-chair), []() (co-chair), and [](). -->
+I am a doctoral student in the Department of Economics at [Cornell Unviersity](https://as.vanderbilt.edu/econ). I am currently working under the supervision of [Eleonora Patacchini](http://elepatacchini.com/).
+ <!-- (co-chair), []() (co-chair), and [](). -->
 
 My research interests are political economics, networks, industrial organization, and econometrics.
