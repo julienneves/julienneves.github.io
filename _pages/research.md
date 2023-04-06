@@ -10,7 +10,7 @@ author_profile: true
 **[Judge Influence and Judicial Network](https://www.dropbox.com/s/zngvm4s8sk73nvm/paper-judge-influence-10-19-2021.pdf)**
 >I study the extent to which judges' influence depend on the judges' social connections. Guided by a theoretical model that formalizes the role of social connection, I document that social connections are a significant determinant of judge influence. I use the flow of law clerks between judges from 1995-2004 as a measure of social connections, total citations as a proxy for influence, and I address network endogeneity by using novel data on the judges' alumni connections. Our results also provide new insights into how social connectedness interacts with judge demographic characteristics.
 
-**Policy Diffusion Networks and Campaign Donations: Evidence from Text Reuse in State Legislatures**
+**Electoral Experiences and Legislator Behavior**
 
 **Dynamic network formation with forward looking agents** with Marco Battaglini and Eleonora Patacchini
 
