@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Bachelor"
-permalink: /cv/
+permalink: /bachelor/
 author_profile: true
 redirect_from:
   - /resume
